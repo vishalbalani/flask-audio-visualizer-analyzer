@@ -3,7 +3,6 @@ correlation
 numpy
 librosa
 matplotlib
-os
 subprocess
 scipy
 glob
